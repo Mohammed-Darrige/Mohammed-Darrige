@@ -9,7 +9,7 @@
 I specialize in building **autonomous ecosystems** rather than isolated scripts. My work focuses on the intersection of **Agentic AI**, **Computer Vision**, and **Scalable MLOps**. I believe that a great AI project is a complete system: from clean data pipelines and model fine-tuning to robust APIs and intuitive user interfaces.
 
 - 🔭 **Current Focus:** Agentic workflows and evaluation-aware LLM products.
-- 🌱 **Learning:** High-performance ML inference with Rust.
+- 🌱 **Currently Learning:** Agentic RAG, MLOps, and Causal Inference.
 - 💬 **Ask me about:** Stable Diffusion fine-tuning (LoRA), LLM Reasoning engines, and Next.js integration.
 - ⚡ **Fun Fact:** I balance my digital world by playing football and exploring art history through AI.
 

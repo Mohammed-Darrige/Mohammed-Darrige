@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 About Me
-My strongest foundation is in **Machine Learning and Deep Learning**, built through consistent hands-on Kaggle work. I have published 16 public notebooks and multiple datasets, and I am now extending that core into newer product-style projects in Agentic AI and applied RAG.
+My strongest foundation is in **Machine Learning and Deep Learning**, strengthened through consistent Kaggle notebook work and competition practice. I am now extending that core into newer product-style projects in Agentic AI and applied RAG.
 
 - 🧠 **Core Strength:** Classical ML, model fundamentals, and deep learning experimentation.
-- 📊 **Kaggle Snapshot:** 16 public notebooks, 3 datasets, and multiple completed competitions.
+- 📊 **Kaggle Snapshot:** Notebook work and competition experience.
 - 🔭 **Current Focus:** Agentic workflows and evaluation-aware LLM products.
 - 🌱 **Currently Learning:** Agentic RAG, MLOps, and Causal Inference.
 - 💬 **Ask me about:** ML pipelines, BERT/LSTM learning path, LoRA fine-tuning, and practical NLP systems.
@@ -34,18 +34,12 @@ My strongest foundation is in **Machine Learning and Deep Learning**, built thro
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 💻 Frontend & Design
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
 ---
 
 ## 📚 Kaggle Highlights
 
 - **Role:** Notebooks Expert (`1,442 / 61,182`)
-- **Output:** `16` public notebooks, `3` public datasets, `102` discussion posts
+- **Output:** Public notebooks, competitions, and active discussion contributions
 - **Popular notebooks:**
   - [Movie_Recommender_System_Content_Based](https://www.kaggle.com/code/muhammedderric/movie-recommender-system-content-based)
   - [NLP_Course_Level_4_LLM_RAG](https://www.kaggle.com/code/muhammedderric/nlp-course-level-4-llm-rag)

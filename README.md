@@ -1,0 +1,76 @@
+# 👋 Hi, I'm Mohammed Darrige
+### AI Engineer & Systems Architect | 2nd-Year AI Engineering Student @ Fırat University
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=false&vCenter=false&width=600&lines=Agentic+AI+Architect;Computer+Vision+Specialist;Full-Stack+AI+System+Developer;Open+Source+Contributor)
+
+---
+
+## 🚀 About Me
+I specialize in building **autonomous ecosystems** rather than isolated scripts. My work focuses on the intersection of **Agentic AI**, **Computer Vision**, and **Scalable MLOps**. I believe that a great AI project is a complete system: from clean data pipelines and model fine-tuning to robust APIs and intuitive user interfaces.
+
+- 🔭 **Current Focus:** Agentic workflows and evaluation-aware LLM products.
+- 🌱 **Learning:** High-performance ML inference with Rust.
+- 💬 **Ask me about:** Stable Diffusion fine-tuning (LoRA), LLM Reasoning engines, and Next.js integration.
+- ⚡ **Fun Fact:** I balance my digital world by playing football and exploring art history through AI.
+
+---
+
+## 🛠 Tech Stack
+
+### 🧠 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🏗 Infrastructure & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 💻 Frontend & Design
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🎨 [Neural Style Transfer Lab](https://github.com/Mohammed-Darrige/neural-style-transfer)
+**Fine-tuned LoRA engine for artistic reimagination.**
+- **The Core:** Fine-tuned SD 1.5 using LoRA adapters for 4 specific art styles (Cubism, Pop Art, Post-Impressionism, Ukiyo-e).
+- **Technology:** Python, PyTorch, Diffusers, FastAPI.
+- **Impact:** Achieved high-fidelity style injection with minimal adapter size (~6MB), integrated into a live Next.js laboratory.
+
+### 🦁 [AI Akinator](https://github.com/Mohammed-Darrige/ai-akinator)
+**Agentic animal deduction engine with server-validated reasoning.**
+- **The Core:** Uses a "Constraint Ledger" and information-gain-based questioning to predict animals in minimal steps.
+- **Technology:** Python, FastAPI, Pydantic, LLM Integration.
+- **Impact:** Eliminates typical LLM hallucinations through strict state management and rule validation.
+
+### 📊 [Artoria Dataset](https://www.kaggle.com/datasets/h7alasaleh/artoria-dataset)
+**Custom curated dataset for art-style classification and generative training.**
+- **The Core:** A high-quality collection of art movements used to train the Neural Style Transfer Lab.
+
+---
+
+## 📈 Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Darrige&show_icons=true&theme=tokyonight" alt="Mohammed's Github Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Darrige&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</div>
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-darrige-48b056331/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammedderric)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derricmuhammed@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://premium-portfolio-two.vercel.app)
+
+---
+<p align="center"><i>"Building the future, one node at a time."</i></p>

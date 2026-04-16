@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Mohammed Darrige
-### AI Engineer & Systems Architect | 2nd-Year AI Engineering Student @ Fırat University
+### AI/ML Engineer | Kaggle Notebooks Expert | 2nd-Year AI Engineering Student @ Fırat University
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=false&vCenter=false&width=600&lines=Agentic+AI+Architect;Computer+Vision+Specialist;Full-Stack+AI+System+Developer;Open+Source+Contributor)
 
 ---
 
 ## 🚀 About Me
-I specialize in building **autonomous ecosystems** rather than isolated scripts. My work focuses on the intersection of **Agentic AI**, **Computer Vision**, and **Scalable MLOps**. I believe that a great AI project is a complete system: from clean data pipelines and model fine-tuning to robust APIs and intuitive user interfaces.
+My strongest foundation is in **Machine Learning and Deep Learning**, built through consistent hands-on Kaggle work. I have published 16 public notebooks and multiple datasets, and I am now extending that core into newer product-style projects in Agentic AI and applied RAG.
 
+- 🧠 **Core Strength:** Classical ML, model fundamentals, and deep learning experimentation.
+- 📊 **Kaggle Snapshot:** 16 public notebooks, 3 datasets, and multiple completed competitions.
 - 🔭 **Current Focus:** Agentic workflows and evaluation-aware LLM products.
 - 🌱 **Currently Learning:** Agentic RAG, MLOps, and Causal Inference.
-- 💬 **Ask me about:** Stable Diffusion fine-tuning (LoRA), LLM Reasoning engines, and Next.js integration.
+- 💬 **Ask me about:** ML pipelines, BERT/LSTM learning path, LoRA fine-tuning, and practical NLP systems.
 - ⚡ **Fun Fact:** I balance my digital world by playing football and exploring art history through AI.
 
 ---
@@ -20,6 +22,8 @@ I specialize in building **autonomous ecosystems** rather than isolated scripts.
 ### 🧠 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2C5BB4?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -38,7 +42,21 @@ I specialize in building **autonomous ecosystems** rather than isolated scripts.
 
 ---
 
-## 🌟 Featured Projects
+## 📚 Kaggle Highlights
+
+- **Role:** Notebooks Expert (`1,442 / 61,182`)
+- **Output:** `16` public notebooks, `3` public datasets, `102` discussion posts
+- **Popular notebooks:**
+  - [Movie_Recommender_System_Content_Based](https://www.kaggle.com/code/muhammedderric/movie-recommender-system-content-based)
+  - [NLP_Course_Level_4_LLM_RAG](https://www.kaggle.com/code/muhammedderric/nlp-course-level-4-llm-rag)
+  - [NLP_Course_Level_3_BERT.ipynb](https://www.kaggle.com/code/muhammedderric/nlp-course-level-3-bert-ipynb)
+- **Profile:** [kaggle.com/muhammedderric](https://www.kaggle.com/muhammedderric)
+
+---
+
+## 🌟 Current Build Projects
+
+I am actively turning my ML/DL foundation into production-facing systems through the projects below.
 
 ### 🎨 [Neural Style Transfer Lab](https://github.com/Mohammed-Darrige/neural-style-transfer)
 **Fine-tuned LoRA engine for artistic reimagination.**

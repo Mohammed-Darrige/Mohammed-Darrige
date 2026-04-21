@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Mohammed Darrige
+# 👋 Hi, I'm Mohammad Darrige
 ### AI/ML Engineer | Kaggle Notebooks Expert | 2nd-Year AI Engineering Student @ Fırat University
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=false&vCenter=false&width=600&lines=Agentic+AI+Architect;Computer+Vision+Specialist;Full-Stack+AI+System+Developer;Open+Source+Contributor)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E60000&center=false&vCenter=false&width=1000&lines=Agentic+AI+Architect+(Developer+of+'Apex');MLOps+&+RAG+Engineer;Computer+Vision+&+LoRA+Specialist;Open+Source+Contributor;Applied+Data+Engineering+&+Autonomous+Systems)
+
+[**📄 Download My CV**](./Mohammad_Darrige_CV.pdf)
 
 ---
 
@@ -20,19 +22,19 @@ My strongest foundation is in **Machine Learning and Deep Learning**, strengthen
 ## 🛠 Tech Stack
 
 ### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-2C5BB4?style=for-the-badge&logo=xgboost&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E60000?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E60000?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-E60000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-E60000?style=for-the-badge&logo=xgboost&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-E60000?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-E60000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-E60000?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🏗 Infrastructure & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-E60000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-E60000?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E60000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E60000?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -72,16 +74,16 @@ I am actively turning my ML/DL foundation into production-facing systems through
 
 ## 📈 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Darrige&show_icons=true&theme=tokyonight" alt="Mohammed's Github Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Darrige&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Darrige&show_icons=true&theme=red" alt="Mohammad's Github Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Darrige&layout=compact&theme=red" alt="Top Languages" height="150" />
 </div>
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-darrige-48b056331/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammedderric)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derricmuhammed@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E60000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-darrige-48b056331/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-E60000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammedderric)
+[![Email](https://img.shields.io/badge/Email-E60000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derricmuhammed@gmail.com)
 
 ---
 <p align="center"><i>"Building the future, one node at a time."</i></p>

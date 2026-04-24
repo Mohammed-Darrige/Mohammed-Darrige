@@ -3,10 +3,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E60000&center=false&vCenter=false&width=1000&lines=Agentic+AI+Architect+(Developer+of+'Apex');MLOps+&+RAG+Engineer;Computer+Vision+&+LoRA+Specialist;Open+Source+Contributor;Applied+Data+Engineering+&+Autonomous+Systems)
 
-[**📄 Download My CV**](./Mohammad_Darrige_CV.pdf)
-
----
-
 ## 🚀 About Me
 My strongest foundation is in **Machine Learning and Deep Learning**, strengthened through consistent Kaggle notebook work and competition practice. I am now extending that core into newer product-style projects in Agentic AI and applied RAG.
 

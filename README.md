@@ -1,14 +1,20 @@
-# 👋 Hi, I'm Mohammad Darrige
-### AI/ML Engineer | Kaggle Notebooks Expert | 2nd-Year AI Engineering Student @ Fırat University
+![Mohammed Darrige visual identity](assets/profile-banner.webp)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E60000&center=false&vCenter=false&width=1000&lines=Agentic+AI+Architect+(Developer+of+'Apex');MLOps+&+RAG+Engineer;Computer+Vision+&+LoRA+Specialist;Open+Source+Contributor;Applied+Data+Engineering+&+Autonomous+Systems)
+# Hi, I'm Mohammed Darrige
+### AI & Data Engineering Student | Kaggle Notebooks Expert | ML / NLP / Computer Vision
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E60000&center=false&vCenter=false&width=1000&lines=AI+%26+Data+Engineering+Student;Machine+Learning+%2F+NLP+%2F+Computer+Vision;LoRA+Fine-Tuning+%26+Image+AI;Open+Source+Projects+%26+Kaggle+Notebooks)
+
+<p align="center">
+  <img src="assets/brand-stripe.webp" alt="brand stripe" width="720" />
+</p>
 
 ## 🚀 About Me
 My strongest foundation is in **Machine Learning and Deep Learning**, strengthened through consistent Kaggle notebook work and competition practice. I am now extending that core into newer product-style projects in Agentic AI and applied RAG.
 
 - 🧠 **Core Strength:** Classical ML, model fundamentals, and deep learning experimentation.
 - 📊 **Kaggle Snapshot:** Notebook work and competition experience.
-- 🔭 **Current Focus:** Agentic workflows and evaluation-aware LLM products.
+- 🔭 **Current Focus:** Reliable ML demos, lightweight AI systems, and evaluation-aware LLM products.
 - 🌱 **Currently Learning:** Agentic RAG, MLOps, and Causal Inference.
 - 💬 **Ask me about:** ML pipelines, BERT/LSTM learning path, LoRA fine-tuning, and practical NLP systems.
 - ⚡ **Fun Fact:** I balance my digital world by playing football and exploring art history through AI.
@@ -77,6 +83,7 @@ I am actively turning my ML/DL foundation into production-facing systems through
 ---
 
 ## 📫 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-E60000?style=for-the-badge&logo=vercel&logoColor=white)](https://darrige.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E60000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-darrige-48b056331/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-E60000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammedderric)
 [![Email](https://img.shields.io/badge/Email-E60000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derricmuhammed@gmail.com)

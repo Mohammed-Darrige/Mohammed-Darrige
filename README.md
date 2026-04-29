@@ -1,4 +1,4 @@
-![Mohammed Darrige visual identity](assets/profile-banner.webp)
+![Mohammed Darrige visual identity](assets/profile-banner.png)
 
 # Hi, I'm Mohammed Darrige
 ### AI & Data Engineering Student | Kaggle Notebooks Expert | ML / NLP / Computer Vision
@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E60000&center=false&vCenter=false&width=1000&lines=AI+%26+Data+Engineering+Student;Machine+Learning+%2F+NLP+%2F+Computer+Vision;LoRA+Fine-Tuning+%26+Image+AI;Open+Source+Projects+%26+Kaggle+Notebooks)
 
 <p align="center">
-  <img src="assets/brand-stripe.webp" alt="brand stripe" width="720" />
+  <img src="assets/brand-stripe.png" alt="brand stripe" width="720" />
 </p>
 
 ## 🚀 About Me

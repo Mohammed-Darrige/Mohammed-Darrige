@@ -62,11 +62,13 @@ I am actively turning my ML/DL foundation into production-facing systems through
 - **Technology:** Python, PyTorch, Diffusers, FastAPI.
 - **Impact:** Achieved high-fidelity style injection with minimal adapter size (~6MB), integrated into a live Next.js laboratory.
 
-### 🦁 [AI Akinator](https://github.com/Mohammed-Darrige/ai-akinator)
-**Agentic animal deduction engine with server-validated reasoning.**
-- **The Core:** Uses a "Constraint Ledger" and information-gain-based questioning to predict animals in minimal steps.
-- **Technology:** Python, FastAPI, Pydantic, LLM Integration.
-- **Impact:** Eliminates typical LLM hallucinations through strict state management and rule validation.
+### 🦁 [Neural Akinator](https://github.com/Mohammed-Darrige/ai-akinator)
+**Deterministic & API-less Animal Deduction Engine**
+- **The Core:** Replaced an expensive, rate-limited LLM API system with a local, deterministic "Constraint Ledger" containing 225 animals. It uses information-gain math (Entropy) to filter candidates locally.
+- **Technology:** TypeScript, Next.js, Local Search Trees.
+- **Post-Mortem & Evolution:** 
+  - *The Problem:* The first iteration relied heavily on free LLM APIs with complex system prompts. This caused rate-limit bottlenecks and hallucinated traits because of over-reliance on the LLM's parametric memory.
+  - *The Solution:* Built a local deterministic engine. Replaced external API calls with local entropy calculations. The UI now reflects the actual mathematical decision tree and candidate pool in real-time, resulting in zero latency, zero hallucinations, and zero API costs.
 
 ### 📊 [Artoria Dataset](https://www.kaggle.com/datasets/h7alasaleh/artoria-dataset)
 **Custom curated dataset for art-style classification and generative training.**

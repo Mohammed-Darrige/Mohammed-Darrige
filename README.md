@@ -27,9 +27,9 @@ My recent projects live at [darrige.tech](https://darrige.tech), and my notebook
 
 ### [Turkish Customer Support Voice and Text RAG](https://github.com/Mohammed-Darrige/turkish-customer-nlu-rag)
 
-A Turkish customer support assistant built with FastAPI, Okapi BM25, `multilingual-e5-small`, Reciprocal Rank Fusion, and rule-based Turkish NLU. When local Ollama is running, a numeric check rejects replies that invent numbers absent from the matched store policy.
+A Turkish customer support RAG service backed by PostgreSQL 16 (`pgvector` HNSW + Turkish `tsvector` GIN SQL Hybrid RRF), Contextual Retrieval over 213 chunks of Turkish Consumer Law (6502 & regulations), a `mmarco-mMiniLMv2` cross-encoder reranker, dev-calibrated logit abstention, and numeric + `[doc_id:Madde N]` citation grounding.
 
-On the 21-query policy retrieval benchmark, hybrid search reaches 85.7% Hit@1 (18/21) and 0.881 MRR@3 at 8.96 ms mean latency. The repo includes a Web Speech API voice interface, `pytest` suite, Docker setup, and GitHub Actions CI.
+On a frozen 120-query held-out benchmark, `hybrid_rerank` reaches 97.1% Recall@5 (82.9% Hit@1) on Turkish queries and 96.0% out-of-scope abstention recall (4.0% False Answer Rate), with cross-lingual AR/EN->TR queries tracked separately as a zero-shot ablation. Includes a Web Speech API voice UI, FastAPI observability, Docker Compose, and live Postgres GitHub Actions CI.
 
 ### [Neural Style Transfer](https://github.com/Mohammed-Darrige/neural-style-transfer)
 

@@ -1,66 +1,56 @@
-![Mohammed Darrige visual identity](assets/profile-banner.png)
+![Mohammed Darrige visual identity](assets/profile-banner.webp)
 
 # Mohammed Darrige
 
-AI and Data Engineering student building reproducible machine-learning systems, evaluation-aware NLP demos, and image-generation tools.
+Applied AI & Data Engineer building reproducible RAG pipelines, fine-tuned diffusion workflows, and deterministic inference engines.
 
 <p align="center">
   <img src="assets/brand-stripe.png" alt="Mohammed Darrige brand mark" width="720" />
 </p>
 
-## About
+## Focus
 
-- Focus: machine learning, NLP, computer vision, and practical RAG systems.
-- Current work: reliable ML demos, LoRA fine-tuning, and lightweight AI deployments.
-- Learning: MLOps, agentic RAG, and causal inference.
-- Kaggle: [muhammedderric](https://www.kaggle.com/muhammedderric)
-- Portfolio: [darrige.tech](https://darrige.tech)
+- **Applied NLP & RAG:** Hybrid retrieval (Okapi BM25 + Multilingual-E5 + RRF), Turkish NLU, and numeric-grounding verification for local LLMs.
+- **Generative Vision:** Stable Diffusion 1.5 rank-4 UNet LoRA fine-tuning, SHA-256 artifact manifests, and FastAPI inference serving.
+- **Deterministic Inference:** Constraint-consistent Bayesian deduction with bounded information-gain lookahead.
+- **Languages:** Arabic (Native), Turkish (Professional), English (B2).
+- **Portfolio:** [darrige.tech](https://darrige.tech) · **Kaggle:** [muhammedderric](https://www.kaggle.com/muhammedderric)
 
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-E60000?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-E60000?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-E60000?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-E60000?style=for-the-badge&logo=huggingface&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-E60000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-E60000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-E60000?style=for-the-badge&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-E60000?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-E60000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## Selected Work
+## Flagship Repositories
 
-### [Neural Style Transfer Lab](https://github.com/Mohammed-Darrige/neural-style-transfer)
+### [Turkish Customer Support Voice & Text RAG Assistant](https://github.com/Mohammed-Darrige/turkish-customer-nlu-rag)
 
-Stable Diffusion 1.5 image-to-image style transfer with three deployed rank-4 LoRA adapters: Cubism, Post-Impressionism, and Ukiyo-e.
+End-to-end Turkish customer support assistant combining Okapi BM25, `multilingual-e5-small`, Reciprocal Rank Fusion (`k=60`), rule-based NLU, and local Ollama numeric-grounding checks.
 
-- Verified artifacts: 3.08 MiB adapters, SHA-256 manifests, and a preserved training provenance chain.
-- Training: a four-style Colab run trained each adapter for 1,000 steps using the Artoria dataset; Pop Art is preserved as an archived, non-deployed adapter.
-- Runtime: Python, PyTorch, Diffusers, FastAPI, and a Next.js laboratory interface.
-- Live demo: [darrige.tech](https://darrige.tech/en/projects/neural-style-lab)
+- **Measured Retrieval (`N=21`):** Hybrid Hit@1 **85.7%** (`18/21`), MRR@3 **0.881**, mean latency **8.96 ms**.
+- **Stack:** Python, FastAPI, Docker, `sentence-transformers`, Web Speech API (`tr-TR`), `pytest`, GitHub Actions CI.
 
-### [AI Akinator](https://darrige.tech/en/projects/ai-akinator)
+### [Neural Style Transfer (SD 1.5 LoRA + FastAPI)](https://github.com/Mohammed-Darrige/neural-style-transfer)
 
-Animal deduction prototype built around a constraint ledger and information-gain question selection.
+Stable Diffusion 1.5 text-to-image and image-to-image style transfer with three deployed rank-4 UNet LoRA adapters: Cubism, Post-Impressionism, and Ukiyo-e.
 
-- Core gameplay narrows a local candidate pool with structured yes/no/unknown evidence.
-- Post-game validation is a separate optional service layer; it is not described as an API-free feature.
-- Current work focuses on measurable inference quality, repeat-question prevention, and safe reviewed learning.
+- **Verified Artifacts:** 3.08 MiB `.safetensors` adapters with SHA-256 manifests and preserved Colab training provenance.
+- **Live Demo:** [darrige.tech/projects/neural-style-lab](https://darrige.tech/projects/neural-style-lab)
+
+### [Deterministic Bayesian Akinator v4](https://github.com/Mohammed-Darrige/ai-akinator)
+
+Deterministic animal deduction engine with strict direct-observation consistency, 110 catalogue targets, 90 `tr/en/ar` questions, and two-question information-gain lookahead.
+
+- **In-Sample Benchmark:** **330/330** solved (`7.11` mean questions, `4.96 ms` mean selector time).
+- **Live Demo:** [darrige.tech/projects/ai-akinator](https://darrige.tech/projects/ai-akinator)
 
 ### [Artoria Dataset](https://www.kaggle.com/datasets/h7alasaleh/artoria-dataset)
 
-Curated art-movement data used in the Style Transfer training workflow.
-
-## Kaggle Highlights
-
-- [Movie Recommender System](https://www.kaggle.com/code/muhammedderric/movie-recommender-system-content-based)
-- [NLP Course: LLM RAG](https://www.kaggle.com/code/muhammedderric/nlp-course-level-4-llm-rag)
-- [NLP Course: BERT](https://www.kaggle.com/code/muhammedderric/nlp-course-level-3-bert-ipynb)
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Darrige&show_icons=true&theme=transparent&hide_border=true" alt="Mohammed Darrige GitHub statistics" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Darrige&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" height="150" />
-</div>
+Curated art-movement dataset used in the Style Transfer LoRA training workflow.
 
 ## Contact
 
